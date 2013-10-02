@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F173374-0429-427E-974B-9EE5464D0BA6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MDTowerDefence</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7596CF42-AA42-4AC1-8B1A-11523BBE2D0C</key>
+		<string>https://github.com/muradome/MDTowerDefence.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MDTowerDefence.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7596CF42-AA42-4AC1-8B1A-11523BBE2D0C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/muradome/MDTowerDefence.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7596CF42-AA42-4AC1-8B1A-11523BBE2D0C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7596CF42-AA42-4AC1-8B1A-11523BBE2D0C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MDTowerDefence</string>
+		</dict>
+	</array>
+</dict>
+</plist>
